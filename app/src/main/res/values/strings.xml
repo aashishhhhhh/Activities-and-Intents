@@ -1,11 +1,13 @@
-<resources>
-    <string name="app_name">TwoActivities</string>
-    <string name="button_main">SEND</string>
-    <string name="text_header">TextView</string>
-    <string name="editText_main">Enter</string>
-    <string name="button_second">Reply</string>
-    <string name="editText_second">Enter Your Reply Here</string>
-    <string name="text_header_reply">Reply Received</string>
 
-
-</resources>
+    <resources>
+        <string name="app_name">Hello Toast</string>
+        <string name="button_label_toast">Hello Toast!</string>
+        <string name="count_initial_value">0</string>
+        <string name="button_label_count">Count</string>
+        <string name="text1">Half screen TextView (This is for the small coding challenge)</string>
+        <string name="text2">Small TextView</string>
+        <string name="toast_message">Hello Toast!</string>
+        <string name="say_hello">Say Hello</string>
+        <string name="hello">Hello</string>
+        <string name="number">0</string>
+    </resources>
